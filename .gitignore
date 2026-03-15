@@ -6,4 +6,3 @@ obj/
 **/obj/
 *.user
 *.suo
-/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp.csproj
